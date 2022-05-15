@@ -1,0 +1,6 @@
+name: WarpStoneAPI
+version: '${project.version}'
+main: dev.kutuptilkisi.warpstoneapi.WarpStoneAPI
+api-version: 1.17
+commands:
+  pillar:

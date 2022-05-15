@@ -1,0 +1,12 @@
+debug: true
+
+MySql:
+  host: "localhost"
+  port: 3306
+  database-name: "warp_stone"
+  username: "root"
+  password: ""
+
+bind-item-name: "&aAwesome Binding Item"
+teleport-wait: 3
+teleport-cooldown: 300

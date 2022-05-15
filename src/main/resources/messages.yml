@@ -1,0 +1,6 @@
+binding-gui-name: "&aBinding GUI"
+slot-change-message: "&aSlot Changed To %new_slot%" # Placeholders: %new_slot%, %old_slot%
+slot-not-binded: "&4Slot Not Binded!"
+teleport-message: "&cTeleporting..."
+pillar-not-exist: "&4Pillar Not Exist Anymore"
+cooldown-message: "&4Wait %time% seconds to use it again" # %time%: seconds
